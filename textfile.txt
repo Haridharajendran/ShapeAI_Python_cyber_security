@@ -1,0 +1,10 @@
+Enter the city name: chennai
+-------------------------------------------------------------
+Weather Stats for - CHENNAI  || 24 Jun 2021 | 04:07:25 PM
+-------------------------------------------------------------
+Current temperature is: 29.42 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 85 %
+Current wind speed    : 2.24 kmph
+Current wind speed    : 2.24 kmph
+====================================================
